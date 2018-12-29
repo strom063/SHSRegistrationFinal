@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SHSRegistration</string>
+    <string-array name="spinnerTracks">
+        <item>ABM</item>
+        <item>ICT</item>
+        <item>TOSHS</item>
+        <item>CulARTS</item>
+    </string-array>
+</resources>
